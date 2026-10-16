@@ -1,0 +1,12 @@
+{
+  "name": "hourly-booking-portal",
+  "version": "1.0.0",
+  "description": "Freelancer booking portal: simulated auth, catalog, CRUD and persistent state. No build step.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "serve": "npx --yes serve . -l 8080"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
